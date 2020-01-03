@@ -95,6 +95,19 @@ header {
   margin-top: 0;
 }
 
+/* Work Experience - Home button
+------------------------------------*/
+.webtn {
+  color: #32393D;
+  background: #6298BD;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 4px;
+  display: inline-block;
+}
+.webtn:hover {
+  background: rgba(98, 152, 189, 80%);
+}
 
 /* Work Experience
 ------------------------------------*/
