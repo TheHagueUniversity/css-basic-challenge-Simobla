@@ -129,6 +129,22 @@ header {
   width: 60%;
 }
 
+/* Hobbies
+------------------------------------*/
+
+.hobbies {
+  background: #D8F8F3;
+}
+
+img {
+  border: 1px solid #CEEAFC;
+  border-radius: 4px;
+  padding: 3px;
+  width: 260px;
+}
+img:hover {
+  box-shadow: 0 0 4px 3px rgba(98, 152, 189, 80%);
+}
 
 /* Contact Info
 ------------------------------------*/
